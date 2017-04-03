@@ -1,0 +1,6 @@
+# Author: Jeremy Cruz 3, April 2017
+# Place a shell script in /usr/bin that will execute the applet
+sudo mkdir /usr/bin/Classifier
+sudo cp ../code/* /usr/bin/Classifier
+sudo cp classifier /usr/bin
+sudo chmod 777 /usr/bin/classifier

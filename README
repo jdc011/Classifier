@@ -1,0 +1,12 @@
+This is an applet that allows a user to interact with and learn basic AI
+classifiers for linear regressors and perceptron. The user will be able to
+spawn data points on mouse clicks and choose their labels. From these spawned
+data points, the user can see the linear and perceptron classifiers. The code
+for the software is found in code for development purposes. The installer is
+found in installer and works relative to heiarchy found in this directory. To
+install, simply run the install script. The uninstall script will remove this
+software if you have already installed it. Installing the software add the
+code and executor script to run the code in /usr/bin. It will create a folder
+called Classifier and put the code there. The executor will be a file called
+classifer which you just need to type in the command line. You might need to
+use sudo to run this software.

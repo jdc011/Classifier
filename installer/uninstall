@@ -1,0 +1,4 @@
+# Author: Jeremy Cruz 3, April 2017
+# Remove all instances of the software from /usr/bin
+sudo rm -rf /usr/bin/Classifier
+sudo rm /usr/bin/classifier
